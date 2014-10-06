@@ -1,1 +1,4 @@
 Django==1.7
+django-bootstrap3==4.11.0
+pyjade==3.0.0
+six==1.8.0
